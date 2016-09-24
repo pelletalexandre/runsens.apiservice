@@ -1,6 +1,6 @@
 {
   "name": "runsens.apiservice",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Accès à l'API Rest RunSens",
   "main": "runsens-apiservice.js",
   "scripts": {
