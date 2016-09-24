@@ -1,0 +1,19 @@
+{
+  "name": "runsens.apiservice",
+  "version": "1.0.1",
+  "description": "Accès à l'API Rest RunSens",
+  "main": "runsens-apiservice.js",
+  "scripts": {
+    "test": "runsens.apiservice specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelletalexandre/runsens.apiservice.git"
+  },
+  "author": "PELLET Alexandre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pelletalexandre/runsens.apiservice/issues"
+  },
+  "homepage": "https://github.com/pelletalexandre/runsens.apiservice#readme"
+}
